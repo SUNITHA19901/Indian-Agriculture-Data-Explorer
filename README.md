@@ -48,7 +48,7 @@ Identified high-performing and low-performing crops/states
 Trend analysis over the last 50 years for key crops
 Yield vs. Area vs. Production analysis
 
-4. 📊 Visualization in Power BI
+3. 📊 Visualization in Power BI
    
    Created a full Power BI report with:
 Bar charts, line plots, pie charts
