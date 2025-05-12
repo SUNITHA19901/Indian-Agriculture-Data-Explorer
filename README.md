@@ -83,26 +83,44 @@ Investigate the impact of irrigation or weather on productivity
 Chart Type	Insight
 
 Bar Chart	Top 7 States by Rice Production
+
 Bar + Pie Chart	Top 5 Wheat Producers and their percentage share
+
 Line Chart	Sugarcane Production Over Last 50 Years
+
 Bar Chart	Oilseed Production by Top 5 States
+
 Line + Bar	Rice vs Wheat Production Trends
+
 Pie Chart	Soybean Yield Comparison Across Top States
+
 Map Visuals	District-wise production for Rice and other crops
+
 Scatter Plot	Correlation between Area vs Production
 
 📊 SQL Questions Answered
 
 1.Year-wise Trend of Rice Production Across Top 3 States
+
 2.Top 5 Districts by Wheat Yield Increase (Last 5 Years)
+
 3.States with Highest Growth in Oilseed Production
+
 4.Correlation Between Area and Production (Rice, Wheat, Maize)
+
 5.Yearly Cotton Production Growth in Top 5 States
+
 6.Top Districts for Groundnut in 2020
+
 7.Annual Average Maize Yield by State
+
 8.State-wise Total Cultivated Area for Oilseeds
+
 9.Districts with Highest Rice Yield
+
 10-Year Production Comparison for Rice and Wheat in Top 5 States
 
+
 Developed by:
+
 Sunitha T
