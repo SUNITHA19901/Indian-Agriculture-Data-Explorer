@@ -7,11 +7,13 @@ AgriData Explorer is a multidisciplinary data analysis and visualization project
 India's agriculture is the backbone of its economy, yet agricultural data remains fragmented and underutilized. Farmers lack access to predictive insights, policymakers struggle to target interventions, and researchers are hindered by the complexity of data.
 
 This project aims to:
+
 1.Centralize and clean district-level agricultural data.
 2.Enable trend analysis across time, geography, and crop type.
 3.Visualize production patterns and generate region-specific recommendations.
 
 🛠 Skills & Tools & Libraries Used
+
 Python – Data cleaning, transformation, and EDA
 matplotlib, seaborn	Data visualization
 Jupyter Notebook-Python-based analysis workspace
@@ -20,6 +22,7 @@ Power BI – Dashboards and interactive data visualizations
 Data Analysis & Visualization – Trend analysis, correlation, and comparative insights
 
 🌱 Domain: Agriculture
+
 This project primarily focuses on:
 Crop Production (Rice, Wheat, Oilseeds, etc.)
 yield Analysis
@@ -27,22 +30,27 @@ Farming Area Trends
 Time series production data across Indian states and districts
 
 📚 Approach
+
 1. 🔄 Data Collection & Cleaning
+   
 Sourced data from ICRISAT and other government datasets.
 
 Cleaned and standardized:
+
 Units (hectares, tons, kg/ha)
 
 Missing/null values
 Column names and formatting
 
 2. 🔍 Exploratory Data Analysis (EDA)
+   
 Identified high-performing and low-performing crops/states
 Trend analysis over the last 50 years for key crops
 Yield vs. Area vs. Production analysis
 
-3. 📊 Visualization in Power BI
-Created a full Power BI report with:
+4. 📊 Visualization in Power BI
+   
+   Created a full Power BI report with:
 Bar charts, line plots, pie charts
 Slicers for state, crop, and year
 Interactive maps (State-wise and District-wise)
@@ -50,7 +58,7 @@ Interactive maps (State-wise and District-wise)
 Implemented Top N filters (e.g., Top 7 Rice Producing States)
 
 4. 📈 Advanced Analytics & Use Cases
-5. 
+   
 SQL-based custom queries for analytical questions
 Visual storytelling with production comparisons (Rice vs Wheat)
 
